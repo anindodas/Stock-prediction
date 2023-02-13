@@ -1,5 +1,6 @@
 # Stock-prediction
 Features of Trading Algorithm Segmentation:
-Investment Analysis
-Analysis of Prediction
-Analysis of Portfolio Risk News Sentiment
+1. Investment Analysis
+2. Analysis of Prediction
+3. Analysis of Portfolio Risk 
+4. News Sentiment
